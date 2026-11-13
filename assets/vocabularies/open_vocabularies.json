@@ -1,0 +1,2892 @@
+{
+  "count": [
+    {
+      "word": "some",
+      "freq": 4562
+    },
+    {
+      "word": "two",
+      "freq": 1010
+    },
+    {
+      "word": "lot",
+      "freq": 990
+    },
+    {
+      "word": "several",
+      "freq": 892
+    },
+    {
+      "word": "an",
+      "freq": 612
+    },
+    {
+      "word": "lots",
+      "freq": 537
+    },
+    {
+      "word": "three",
+      "freq": 307
+    },
+    {
+      "word": "one",
+      "freq": 295
+    },
+    {
+      "word": "few",
+      "freq": 201
+    },
+    {
+      "word": "four",
+      "freq": 173
+    },
+    {
+      "word": "various",
+      "freq": 70
+    },
+    {
+      "word": "numerous",
+      "freq": 64
+    },
+    {
+      "word": "five",
+      "freq": 63
+    },
+    {
+      "word": "seven",
+      "freq": 30
+    },
+    {
+      "word": "six",
+      "freq": 28
+    },
+    {
+      "word": "number",
+      "freq": 25
+    },
+    {
+      "word": "dozens",
+      "freq": 22
+    },
+    {
+      "word": "dozen",
+      "freq": 22
+    },
+    {
+      "word": "ten",
+      "freq": 21
+    },
+    {
+      "word": "nine",
+      "freq": 14
+    },
+    {
+      "word": "eight",
+      "freq": 9
+    },
+    {
+      "word": "double",
+      "freq": 6
+    },
+    {
+      "word": "hundreds",
+      "freq": 6
+    },
+    {
+      "word": "thirty",
+      "freq": 4
+    },
+    {
+      "word": "twenty",
+      "freq": 3
+    },
+    {
+      "word": "hundred",
+      "freq": 3
+    },
+    {
+      "word": "single",
+      "freq": 3
+    },
+    {
+      "word": "multiple",
+      "freq": 0
+    },
+    {
+      "word": "many",
+      "freq": 0
+    },
+    {
+      "word": "much",
+      "freq": 0
+    },
+    {
+      "word": "most",
+      "freq": 0
+    }
+  ],
+  "color": [
+    {
+      "word": "green",
+      "freq": 3605
+    },
+    {
+      "word": "white",
+      "freq": 998
+    },
+    {
+      "word": "blue",
+      "freq": 932
+    },
+    {
+      "word": "brown",
+      "freq": 776
+    },
+    {
+      "word": "yellow",
+      "freq": 450
+    },
+    {
+      "word": "dark",
+      "freq": 353
+    },
+    {
+      "word": "black",
+      "freq": 260
+    },
+    {
+      "word": "deep",
+      "freq": 260
+    },
+    {
+      "word": "light",
+      "freq": 231
+    },
+    {
+      "word": "red",
+      "freq": 190
+    },
+    {
+      "word": "gray",
+      "freq": 182
+    },
+    {
+      "word": "tan",
+      "freq": 142
+    },
+    {
+      "word": "orange",
+      "freq": 117
+    },
+    {
+      "word": "color",
+      "freq": 103
+    },
+    {
+      "word": "khaki",
+      "freq": 67
+    },
+    {
+      "word": "turquoise",
+      "freq": 61
+    },
+    {
+      "word": "grey",
+      "freq": 26
+    },
+    {
+      "word": "colored",
+      "freq": 21
+    },
+    {
+      "word": "purple",
+      "freq": 18
+    },
+    {
+      "word": "silver",
+      "freq": 12
+    },
+    {
+      "word": "yellowish",
+      "freq": 11
+    },
+    {
+      "word": "golden",
+      "freq": 10
+    },
+    {
+      "word": "pale",
+      "freq": 10
+    },
+    {
+      "word": "pink",
+      "freq": 4
+    },
+    {
+      "word": "red-brown",
+      "freq": 0
+    },
+    {
+      "word": "turquoise-green",
+      "freq": 0
+    }
+  ],
+  "object": [
+    {
+      "word": "trees",
+      "freq": 3069
+    },
+    {
+      "word": "buildings",
+      "freq": 3035
+    },
+    {
+      "word": "land",
+      "freq": 1158
+    },
+    {
+      "word": "grass",
+      "freq": 1142
+    },
+    {
+      "word": "cars",
+      "freq": 1008
+    },
+    {
+      "word": "road",
+      "freq": 881
+    },
+    {
+      "word": "sizes",
+      "freq": 865
+    },
+    {
+      "word": "houses",
+      "freq": 820
+    },
+    {
+      "word": "roads",
+      "freq": 790
+    },
+    {
+      "word": "water",
+      "freq": 608
+    },
+    {
+      "word": "farmlands",
+      "freq": 539
+    },
+    {
+      "word": "shapes",
+      "freq": 511
+    },
+    {
+      "word": "areas",
+      "freq": 424
+    },
+    {
+      "word": "vegetation",
+      "freq": 413
+    },
+    {
+      "word": "plants",
+      "freq": 405
+    },
+    {
+      "word": "building",
+      "freq": 393
+    },
+    {
+      "word": "snow",
+      "freq": 380
+    },
+    {
+      "word": "courts",
+      "freq": 314
+    },
+    {
+      "word": "sides",
+      "freq": 313
+    },
+    {
+      "word": "sand",
+      "freq": 295
+    },
+    {
+      "word": "built",
+      "freq": 216
+    },
+    {
+      "word": "roof",
+      "freq": 214
+    },
+    {
+      "word": "consist",
+      "freq": 192
+    },
+    {
+      "word": "space",
+      "freq": 190
+    },
+    {
+      "word": "vehicles",
+      "freq": 179
+    },
+    {
+      "word": "pieces",
+      "freq": 176
+    },
+    {
+      "word": "bunkers",
+      "freq": 168
+    },
+    {
+      "word": "house",
+      "freq": 164
+    },
+    {
+      "word": "colors",
+      "freq": 156
+    },
+    {
+      "word": "paths",
+      "freq": 155
+    },
+    {
+      "word": "picture",
+      "freq": 152
+    },
+    {
+      "word": "homes",
+      "freq": 149
+    },
+    {
+      "word": "waters",
+      "freq": 144
+    },
+    {
+      "word": "diamonds",
+      "freq": 136
+    },
+    {
+      "word": "consists",
+      "freq": 124
+    },
+    {
+      "word": "roofs",
+      "freq": 118
+    },
+    {
+      "word": "distributed",
+      "freq": 118
+    },
+    {
+      "word": "factory",
+      "freq": 112
+    },
+    {
+      "word": "size",
+      "freq": 109
+    },
+    {
+      "word": "clearing",
+      "freq": 106
+    },
+    {
+      "word": "uneven",
+      "freq": 104
+    },
+    {
+      "word": "half",
+      "freq": 101
+    },
+    {
+      "word": "connects",
+      "freq": 96
+    },
+    {
+      "word": "place",
+      "freq": 91
+    },
+    {
+      "word": "located",
+      "freq": 87
+    },
+    {
+      "word": "barrier",
+      "freq": 86
+    },
+    {
+      "word": "trains",
+      "freq": 82
+    },
+    {
+      "word": "tower",
+      "freq": 80
+    },
+    {
+      "word": "withered",
+      "freq": 80
+    },
+    {
+      "word": "path",
+      "freq": 79
+    },
+    {
+      "word": "workshops",
+      "freq": 79
+    },
+    {
+      "word": "piece",
+      "freq": 77
+    },
+    {
+      "word": "chaparrals",
+      "freq": 76
+    },
+    {
+      "word": "city",
+      "freq": 76
+    },
+    {
+      "word": "neat",
+      "freq": 72
+    },
+    {
+      "word": "soil",
+      "freq": 72
+    },
+    {
+      "word": "containers",
+      "freq": 71
+    },
+    {
+      "word": "seawater",
+      "freq": 71
+    },
+    {
+      "word": "district",
+      "freq": 71
+    },
+    {
+      "word": "grow",
+      "freq": 70
+    },
+    {
+      "word": "factories",
+      "freq": 70
+    },
+    {
+      "word": "berg",
+      "freq": 70
+    },
+    {
+      "word": "towers",
+      "freq": 68
+    },
+    {
+      "word": "irregularly",
+      "freq": 67
+    },
+    {
+      "word": "business",
+      "freq": 67
+    },
+    {
+      "word": "planned",
+      "freq": 67
+    },
+    {
+      "word": "shaped",
+      "freq": 66
+    },
+    {
+      "word": "chimneys",
+      "freq": 66
+    },
+    {
+      "word": "spaces",
+      "freq": 65
+    },
+    {
+      "word": "driving",
+      "freq": 65
+    },
+    {
+      "word": "populated",
+      "freq": 65
+    },
+    {
+      "word": "yachts",
+      "freq": 65
+    },
+    {
+      "word": "rocks",
+      "freq": 63
+    },
+    {
+      "word": "swimming",
+      "freq": 62
+    },
+    {
+      "word": "sandpits",
+      "freq": 61
+    },
+    {
+      "word": "grasses",
+      "freq": 59
+    },
+    {
+      "word": "cubes",
+      "freq": 59
+    },
+    {
+      "word": "cooling",
+      "freq": 59
+    },
+    {
+      "word": "together",
+      "freq": 57
+    },
+    {
+      "word": "pool",
+      "freq": 56
+    },
+    {
+      "word": "pipelines",
+      "freq": 56
+    },
+    {
+      "word": "bank",
+      "freq": 55
+    },
+    {
+      "word": "stations",
+      "freq": 55
+    },
+    {
+      "word": "markings",
+      "freq": 53
+    },
+    {
+      "word": "stripes",
+      "freq": 51
+    },
+    {
+      "word": "shape",
+      "freq": 50
+    },
+    {
+      "word": "image",
+      "freq": 50
+    },
+    {
+      "word": "belts",
+      "freq": 49
+    },
+    {
+      "word": "mist",
+      "freq": 49
+    },
+    {
+      "word": "waves",
+      "freq": 48
+    },
+    {
+      "word": "little",
+      "freq": 45
+    },
+    {
+      "word": "main",
+      "freq": 45
+    },
+    {
+      "word": "layer",
+      "freq": 45
+    },
+    {
+      "word": "float",
+      "freq": 45
+    },
+    {
+      "word": "surface",
+      "freq": 44
+    },
+    {
+      "word": "marking",
+      "freq": 43
+    },
+    {
+      "word": "ones",
+      "freq": 43
+    },
+    {
+      "word": "rugged",
+      "freq": 42
+    },
+    {
+      "word": "dunes",
+      "freq": 42
+    },
+    {
+      "word": "entire",
+      "freq": 42
+    },
+    {
+      "word": "dominated",
+      "freq": 42
+    },
+    {
+      "word": "yellow-brown",
+      "freq": 41
+    },
+    {
+      "word": "machinery",
+      "freq": 41
+    },
+    {
+      "word": "signs",
+      "freq": 41
+    },
+    {
+      "word": "lies",
+      "freq": 40
+    },
+    {
+      "word": "rest",
+      "freq": 39
+    },
+    {
+      "word": "zone",
+      "freq": 39
+    },
+    {
+      "word": "complex",
+      "freq": 38
+    },
+    {
+      "word": "exits",
+      "freq": 38
+    },
+    {
+      "word": "entrances",
+      "freq": 38
+    },
+    {
+      "word": "smoke",
+      "freq": 37
+    },
+    {
+      "word": "marks",
+      "freq": 36
+    },
+    {
+      "word": "normal",
+      "freq": 36
+    },
+    {
+      "word": "lands",
+      "freq": 35
+    },
+    {
+      "word": "sized",
+      "freq": 35
+    },
+    {
+      "word": "cross-line",
+      "freq": 34
+    },
+    {
+      "word": "part",
+      "freq": 33
+    },
+    {
+      "word": "car",
+      "freq": 32
+    },
+    {
+      "word": "dome",
+      "freq": 32
+    },
+    {
+      "word": "floats",
+      "freq": 32
+    },
+    {
+      "word": "villages",
+      "freq": 31
+    },
+    {
+      "word": "flood",
+      "freq": 31
+    },
+    {
+      "word": "bed",
+      "freq": 31
+    },
+    {
+      "word": "roadside",
+      "freq": 31
+    },
+    {
+      "word": "parks",
+      "freq": 31
+    },
+    {
+      "word": "equipped",
+      "freq": 31
+    },
+    {
+      "word": "staggered",
+      "freq": 30
+    },
+    {
+      "word": "ocean",
+      "freq": 30
+    },
+    {
+      "word": "gauzy",
+      "freq": 30
+    },
+    {
+      "word": "group",
+      "freq": 30
+    },
+    {
+      "word": "larger",
+      "freq": 29
+    },
+    {
+      "word": "thickness",
+      "freq": 29
+    },
+    {
+      "word": "linked",
+      "freq": 29
+    },
+    {
+      "word": "pass",
+      "freq": 28
+    },
+    {
+      "word": "pools",
+      "freq": 28
+    },
+    {
+      "word": "waiting",
+      "freq": 28
+    },
+    {
+      "word": "medium-sized",
+      "freq": 28
+    },
+    {
+      "word": "well-equipped",
+      "freq": 28
+    },
+    {
+      "word": "emitting",
+      "freq": 28
+    },
+    {
+      "word": "heights",
+      "freq": 27
+    },
+    {
+      "word": "snow-covered",
+      "freq": 27
+    },
+    {
+      "word": "chimney",
+      "freq": 27
+    },
+    {
+      "word": "marked",
+      "freq": 26
+    },
+    {
+      "word": "boarding",
+      "freq": 26
+    },
+    {
+      "word": "good",
+      "freq": 26
+    },
+    {
+      "word": "intersect",
+      "freq": 26
+    },
+    {
+      "word": "huge",
+      "freq": 25
+    },
+    {
+      "word": "dirt",
+      "freq": 25
+    },
+    {
+      "word": "terrain",
+      "freq": 25
+    },
+    {
+      "word": "places",
+      "freq": 25
+    },
+    {
+      "word": "lengths",
+      "freq": 24
+    },
+    {
+      "word": "slender",
+      "freq": 24
+    },
+    {
+      "word": "train",
+      "freq": 24
+    },
+    {
+      "word": "domed",
+      "freq": 24
+    },
+    {
+      "word": "farm",
+      "freq": 24
+    },
+    {
+      "word": "high-rise",
+      "freq": 24
+    },
+    {
+      "word": "block",
+      "freq": 24
+    },
+    {
+      "word": "mid-sized",
+      "freq": 24
+    },
+    {
+      "word": "parts",
+      "freq": 23
+    },
+    {
+      "word": "playground",
+      "freq": 22
+    },
+    {
+      "word": "connect",
+      "freq": 22
+    },
+    {
+      "word": "vary",
+      "freq": 22
+    },
+    {
+      "word": "weeds",
+      "freq": 22
+    },
+    {
+      "word": "ravines",
+      "freq": 22
+    },
+    {
+      "word": "open-air",
+      "freq": 22
+    },
+    {
+      "word": "designation",
+      "freq": 22
+    },
+    {
+      "word": "loose",
+      "freq": 22
+    },
+    {
+      "word": "air",
+      "freq": 21
+    },
+    {
+      "word": "seats",
+      "freq": 21
+    },
+    {
+      "word": "banks",
+      "freq": 21
+    },
+    {
+      "word": "varying",
+      "freq": 21
+    },
+    {
+      "word": "floated",
+      "freq": 21
+    },
+    {
+      "word": "styles",
+      "freq": 21
+    },
+    {
+      "word": "floor",
+      "freq": 20
+    },
+    {
+      "word": "steaming",
+      "freq": 20
+    },
+    {
+      "word": "stopped",
+      "freq": 19
+    },
+    {
+      "word": "almost",
+      "freq": 19
+    },
+    {
+      "word": "nearby",
+      "freq": 19
+    },
+    {
+      "word": "kinds",
+      "freq": 19
+    },
+    {
+      "word": "crops",
+      "freq": 19
+    },
+    {
+      "word": "cast",
+      "freq": 19
+    },
+    {
+      "word": "shades",
+      "freq": 19
+    },
+    {
+      "word": "threshold",
+      "freq": 19
+    },
+    {
+      "word": "touchdown",
+      "freq": 19
+    },
+    {
+      "word": "divided",
+      "freq": 18
+    },
+    {
+      "word": "type",
+      "freq": 18
+    },
+    {
+      "word": "orange-red",
+      "freq": 18
+    },
+    {
+      "word": "style",
+      "freq": 18
+    },
+    {
+      "word": "clearings",
+      "freq": 18
+    },
+    {
+      "word": "items",
+      "freq": 18
+    },
+    {
+      "word": "curvy",
+      "freq": 18
+    },
+    {
+      "word": "bulk",
+      "freq": 18
+    },
+    {
+      "word": "facilities",
+      "freq": 17
+    },
+    {
+      "word": "semicircle",
+      "freq": 17
+    },
+    {
+      "word": "greens",
+      "freq": 17
+    },
+    {
+      "word": "materials",
+      "freq": 17
+    },
+    {
+      "word": "short-line",
+      "freq": 17
+    },
+    {
+      "word": "dashes",
+      "freq": 17
+    },
+    {
+      "word": "oil",
+      "freq": 17
+    },
+    {
+      "word": "steam",
+      "freq": 17
+    },
+    {
+      "word": "passing",
+      "freq": 16
+    },
+    {
+      "word": "channel",
+      "freq": 16
+    },
+    {
+      "word": "earth",
+      "freq": 16
+    },
+    {
+      "word": "downs",
+      "freq": 16
+    },
+    {
+      "word": "distance",
+      "freq": 16
+    },
+    {
+      "word": "passes",
+      "freq": 16
+    },
+    {
+      "word": "sparsity",
+      "freq": 16
+    },
+    {
+      "word": "gather",
+      "freq": 16
+    },
+    {
+      "word": "emit",
+      "freq": 16
+    },
+    {
+      "word": "wood",
+      "freq": 15
+    },
+    {
+      "word": "greening",
+      "freq": 15
+    },
+    {
+      "word": "cluster",
+      "freq": 15
+    },
+    {
+      "word": "people",
+      "freq": 15
+    },
+    {
+      "word": "stones",
+      "freq": 15
+    },
+    {
+      "word": "radii",
+      "freq": 15
+    },
+    {
+      "word": "leaves",
+      "freq": 15
+    },
+    {
+      "word": "others",
+      "freq": 14
+    },
+    {
+      "word": "shows",
+      "freq": 14
+    },
+    {
+      "word": "octagon",
+      "freq": 14
+    },
+    {
+      "word": "fluffy",
+      "freq": 14
+    },
+    {
+      "word": "gullys",
+      "freq": 14
+    },
+    {
+      "word": "numbers",
+      "freq": 14
+    },
+    {
+      "word": "series",
+      "freq": 14
+    },
+    {
+      "word": "courtyard",
+      "freq": 14
+    },
+    {
+      "word": "snow-capped",
+      "freq": 14
+    },
+    {
+      "word": "crosses",
+      "freq": 13
+    },
+    {
+      "word": "roofed",
+      "freq": 13
+    },
+    {
+      "word": "spaced",
+      "freq": 13
+    },
+    {
+      "word": "strange",
+      "freq": 13
+    },
+    {
+      "word": "covers",
+      "freq": 13
+    },
+    {
+      "word": "turf",
+      "freq": 13
+    },
+    {
+      "word": "zebra",
+      "freq": 13
+    },
+    {
+      "word": "directions",
+      "freq": 12
+    },
+    {
+      "word": "concrete",
+      "freq": 12
+    },
+    {
+      "word": "apron",
+      "freq": 12
+    },
+    {
+      "word": "trail",
+      "freq": 12
+    },
+    {
+      "word": "tree",
+      "freq": 12
+    },
+    {
+      "word": "texture",
+      "freq": 12
+    },
+    {
+      "word": "metal",
+      "freq": 12
+    },
+    {
+      "word": "powdery",
+      "freq": 12
+    },
+    {
+      "word": "intricated",
+      "freq": 12
+    },
+    {
+      "word": "bustling",
+      "freq": 12
+    },
+    {
+      "word": "gathers",
+      "freq": 12
+    },
+    {
+      "word": "sailing",
+      "freq": 12
+    },
+    {
+      "word": "largest",
+      "freq": 11
+    },
+    {
+      "word": "truck",
+      "freq": 11
+    },
+    {
+      "word": "shadow",
+      "freq": 11
+    },
+    {
+      "word": "turn",
+      "freq": 11
+    },
+    {
+      "word": "thicker",
+      "freq": 11
+    },
+    {
+      "word": "cross",
+      "freq": 11
+    },
+    {
+      "word": "cracks",
+      "freq": 11
+    },
+    {
+      "word": "point",
+      "freq": 11
+    },
+    {
+      "word": "gymnasium",
+      "freq": 11
+    },
+    {
+      "word": "badminton",
+      "freq": 10
+    },
+    {
+      "word": "street",
+      "freq": 10
+    },
+    {
+      "word": "reef",
+      "freq": 10
+    },
+    {
+      "word": "rock",
+      "freq": 10
+    },
+    {
+      "word": "rectangle",
+      "freq": 10
+    },
+    {
+      "word": "walls",
+      "freq": 10
+    },
+    {
+      "word": "sports",
+      "freq": 10
+    },
+    {
+      "word": "oasis",
+      "freq": 10
+    },
+    {
+      "word": "elliptical",
+      "freq": 10
+    },
+    {
+      "word": "blocks",
+      "freq": 10
+    },
+    {
+      "word": "container",
+      "freq": 10
+    },
+    {
+      "word": "carrier",
+      "freq": 10
+    },
+    {
+      "word": "times",
+      "freq": 9
+    },
+    {
+      "word": "trucks",
+      "freq": 9
+    },
+    {
+      "word": "leading",
+      "freq": 9
+    },
+    {
+      "word": "belt",
+      "freq": 9
+    },
+    {
+      "word": "beat",
+      "freq": 9
+    },
+    {
+      "word": "heavy",
+      "freq": 9
+    },
+    {
+      "word": "grey-green",
+      "freq": 9
+    },
+    {
+      "word": "greenery",
+      "freq": 9
+    },
+    {
+      "word": "sign",
+      "freq": 9
+    },
+    {
+      "word": "domes",
+      "freq": 9
+    },
+    {
+      "word": "differently",
+      "freq": 9
+    },
+    {
+      "word": "bifurcated",
+      "freq": 9
+    },
+    {
+      "word": "degree",
+      "freq": 9
+    },
+    {
+      "word": "lead",
+      "freq": 9
+    },
+    {
+      "word": "taller",
+      "freq": 9
+    },
+    {
+      "word": "eighty",
+      "freq": 9
+    },
+    {
+      "word": "aiming",
+      "freq": 9
+    },
+    {
+      "word": "hummock",
+      "freq": 9
+    },
+    {
+      "word": "leads",
+      "freq": 9
+    },
+    {
+      "word": "different-sized",
+      "freq": 9
+    },
+    {
+      "word": "smaller",
+      "freq": 8
+    },
+    {
+      "word": "position",
+      "freq": 8
+    },
+    {
+      "word": "wash",
+      "freq": 8
+    },
+    {
+      "word": "settlements",
+      "freq": 8
+    },
+    {
+      "word": "cyan",
+      "freq": 8
+    },
+    {
+      "word": "passed",
+      "freq": 8
+    },
+    {
+      "word": "jungles",
+      "freq": 8
+    },
+    {
+      "word": "trails",
+      "freq": 8
+    },
+    {
+      "word": "room",
+      "freq": 8
+    },
+    {
+      "word": "coverage",
+      "freq": 8
+    },
+    {
+      "word": "carriers",
+      "freq": 8
+    },
+    {
+      "word": "twice",
+      "freq": 7
+    },
+    {
+      "word": "ripples",
+      "freq": 7
+    },
+    {
+      "word": "taupe",
+      "freq": 7
+    },
+    {
+      "word": "bar",
+      "freq": 7
+    },
+    {
+      "word": "denser",
+      "freq": 7
+    },
+    {
+      "word": "radians",
+      "freq": 7
+    },
+    {
+      "word": "stratocumulus",
+      "freq": 7
+    },
+    {
+      "word": "circularly",
+      "freq": 7
+    },
+    {
+      "word": "trellis",
+      "freq": 7
+    },
+    {
+      "word": "crisscross",
+      "freq": 7
+    },
+    {
+      "word": "whole",
+      "freq": 7
+    },
+    {
+      "word": "bunker",
+      "freq": 7
+    },
+    {
+      "word": "gridiron",
+      "freq": 7
+    },
+    {
+      "word": "branches",
+      "freq": 7
+    },
+    {
+      "word": "cities",
+      "freq": 7
+    },
+    {
+      "word": "veins",
+      "freq": 7
+    },
+    {
+      "word": "clearly",
+      "freq": 7
+    },
+    {
+      "word": "intersects",
+      "freq": 7
+    },
+    {
+      "word": "angle",
+      "freq": 7
+    },
+    {
+      "word": "third",
+      "freq": 7
+    },
+    {
+      "word": "loading",
+      "freq": 7
+    },
+    {
+      "word": "unloading",
+      "freq": 7
+    },
+    {
+      "word": "transitions",
+      "freq": 7
+    },
+    {
+      "word": "planted",
+      "freq": 7
+    },
+    {
+      "word": "trivial",
+      "freq": 7
+    },
+    {
+      "word": "fuselage",
+      "freq": 6
+    },
+    {
+      "word": "mud",
+      "freq": 6
+    },
+    {
+      "word": "sport",
+      "freq": 6
+    },
+    {
+      "word": "structure",
+      "freq": 6
+    },
+    {
+      "word": "playing",
+      "freq": 6
+    },
+    {
+      "word": "shaded",
+      "freq": 6
+    },
+    {
+      "word": "marine",
+      "freq": 6
+    },
+    {
+      "word": "spray",
+      "freq": 6
+    },
+    {
+      "word": "off-white",
+      "freq": 6
+    },
+    {
+      "word": "bi-directional",
+      "freq": 6
+    },
+    {
+      "word": "supports",
+      "freq": 6
+    },
+    {
+      "word": "clusters",
+      "freq": 6
+    },
+    {
+      "word": "fan",
+      "freq": 6
+    },
+    {
+      "word": "yards",
+      "freq": 6
+    },
+    {
+      "word": "semicircles",
+      "freq": 6
+    },
+    {
+      "word": "azure",
+      "freq": 6
+    },
+    {
+      "word": "groves",
+      "freq": 6
+    },
+    {
+      "word": "grain",
+      "freq": 6
+    },
+    {
+      "word": "weed",
+      "freq": 6
+    },
+    {
+      "word": "sage",
+      "freq": 6
+    },
+    {
+      "word": "except",
+      "freq": 6
+    },
+    {
+      "word": "free",
+      "freq": 6
+    },
+    {
+      "word": "central",
+      "freq": 6
+    },
+    {
+      "word": "blue-blue",
+      "freq": 6
+    },
+    {
+      "word": "seventy",
+      "freq": 6
+    },
+    {
+      "word": "makeshift",
+      "freq": 6
+    },
+    {
+      "word": "bifurcation",
+      "freq": 6
+    },
+    {
+      "word": "container-loaded",
+      "freq": 6
+    },
+    {
+      "word": "gate",
+      "freq": 5
+    },
+    {
+      "word": "brushwood",
+      "freq": 5
+    },
+    {
+      "word": "simple",
+      "freq": 5
+    },
+    {
+      "word": "form",
+      "freq": 5
+    },
+    {
+      "word": "stand",
+      "freq": 5
+    },
+    {
+      "word": "ring",
+      "freq": 5
+    },
+    {
+      "word": "separates",
+      "freq": 5
+    },
+    {
+      "word": "slopes",
+      "freq": 5
+    },
+    {
+      "word": "blowing",
+      "freq": 5
+    },
+    {
+      "word": "appears",
+      "freq": 5
+    },
+    {
+      "word": "sandbanks",
+      "freq": 5
+    },
+    {
+      "word": "two-way",
+      "freq": 5
+    },
+    {
+      "word": "umbrella",
+      "freq": 5
+    },
+    {
+      "word": "bricks",
+      "freq": 5
+    },
+    {
+      "word": "complete",
+      "freq": 5
+    },
+    {
+      "word": "earthy",
+      "freq": 5
+    },
+    {
+      "word": "cover",
+      "freq": 5
+    },
+    {
+      "word": "faint",
+      "freq": 5
+    },
+    {
+      "word": "residences",
+      "freq": 5
+    },
+    {
+      "word": "nothing",
+      "freq": 5
+    },
+    {
+      "word": "else",
+      "freq": 5
+    },
+    {
+      "word": "dune",
+      "freq": 5
+    },
+    {
+      "word": "well-arranged",
+      "freq": 5
+    },
+    {
+      "word": "depths",
+      "freq": 5
+    },
+    {
+      "word": "types",
+      "freq": 5
+    },
+    {
+      "word": "forms",
+      "freq": 5
+    },
+    {
+      "word": "sandpit",
+      "freq": 5
+    },
+    {
+      "word": "docking",
+      "freq": 5
+    },
+    {
+      "word": "desolate",
+      "freq": 5
+    },
+    {
+      "word": "slanted",
+      "freq": 5
+    },
+    {
+      "word": "four-lane",
+      "freq": 5
+    },
+    {
+      "word": "perimeter",
+      "freq": 5
+    },
+    {
+      "word": "reddish-brown",
+      "freq": 5
+    },
+    {
+      "word": "ro-ro",
+      "freq": 5
+    },
+    {
+      "word": "veined",
+      "freq": 5
+    },
+    {
+      "word": "podium",
+      "freq": 5
+    },
+    {
+      "word": "smallest",
+      "freq": 4
+    },
+    {
+      "word": "mark",
+      "freq": 4
+    },
+    {
+      "word": "foot",
+      "freq": 4
+    },
+    {
+      "word": "residents",
+      "freq": 4
+    },
+    {
+      "word": "shabby",
+      "freq": 4
+    },
+    {
+      "word": "washes",
+      "freq": 4
+    },
+    {
+      "word": "stack",
+      "freq": 4
+    },
+    {
+      "word": "gray-blue",
+      "freq": 4
+    },
+    {
+      "word": "strait",
+      "freq": 4
+    },
+    {
+      "word": "sandbars",
+      "freq": 4
+    },
+    {
+      "word": "widths",
+      "freq": 4
+    },
+    {
+      "word": "shores",
+      "freq": 4
+    },
+    {
+      "word": "farms",
+      "freq": 4
+    },
+    {
+      "word": "octangle",
+      "freq": 4
+    },
+    {
+      "word": "incomplete",
+      "freq": 4
+    },
+    {
+      "word": "gardens",
+      "freq": 4
+    },
+    {
+      "word": "mainly",
+      "freq": 4
+    },
+    {
+      "word": "drawn",
+      "freq": 4
+    },
+    {
+      "word": "enveloped",
+      "freq": 4
+    },
+    {
+      "word": "spare",
+      "freq": 4
+    },
+    {
+      "word": "light-blue",
+      "freq": 4
+    },
+    {
+      "word": "conifers",
+      "freq": 4
+    },
+    {
+      "word": "flooded",
+      "freq": 4
+    },
+    {
+      "word": "similar-sized",
+      "freq": 4
+    },
+    {
+      "word": "goods",
+      "freq": 4
+    },
+    {
+      "word": "stone",
+      "freq": 4
+    },
+    {
+      "word": "u-shaped",
+      "freq": 4
+    },
+    {
+      "word": "courtyards",
+      "freq": 4
+    },
+    {
+      "word": "generally",
+      "freq": 4
+    },
+    {
+      "word": "meet",
+      "freq": 4
+    },
+    {
+      "word": "rectangular-shaped",
+      "freq": 4
+    },
+    {
+      "word": "bars",
+      "freq": 4
+    },
+    {
+      "word": "chairs",
+      "freq": 4
+    },
+    {
+      "word": "pure",
+      "freq": 4
+    },
+    {
+      "word": "filled",
+      "freq": 4
+    },
+    {
+      "word": "thinner",
+      "freq": 4
+    },
+    {
+      "word": "departure",
+      "freq": 3
+    },
+    {
+      "word": "gates",
+      "freq": 3
+    },
+    {
+      "word": "wings",
+      "freq": 3
+    },
+    {
+      "word": "oval-shaped",
+      "freq": 3
+    },
+    {
+      "word": "yard",
+      "freq": 3
+    },
+    {
+      "word": "arrayed",
+      "freq": 3
+    },
+    {
+      "word": "eroded",
+      "freq": 3
+    },
+    {
+      "word": "shadows",
+      "freq": 3
+    },
+    {
+      "word": "spraying",
+      "freq": 3
+    },
+    {
+      "word": "stacks",
+      "freq": 3
+    },
+    {
+      "word": "mass",
+      "freq": 3
+    },
+    {
+      "word": "traces",
+      "freq": 3
+    },
+    {
+      "word": "piles",
+      "freq": 3
+    },
+    {
+      "word": "spheres",
+      "freq": 3
+    },
+    {
+      "word": "spherical",
+      "freq": 3
+    },
+    {
+      "word": "brick",
+      "freq": 3
+    },
+    {
+      "word": "dome-shaped",
+      "freq": 3
+    },
+    {
+      "word": "grass-green",
+      "freq": 3
+    },
+    {
+      "word": "semi-circle",
+      "freq": 3
+    },
+    {
+      "word": "height",
+      "freq": 3
+    },
+    {
+      "word": "disorder",
+      "freq": 3
+    },
+    {
+      "word": "rooms",
+      "freq": 3
+    },
+    {
+      "word": "fixed",
+      "freq": 3
+    },
+    {
+      "word": "fissure",
+      "freq": 3
+    },
+    {
+      "word": "decayed",
+      "freq": 3
+    },
+    {
+      "word": "pyramidal",
+      "freq": 3
+    },
+    {
+      "word": "fish",
+      "freq": 3
+    },
+    {
+      "word": "nourished",
+      "freq": 3
+    },
+    {
+      "word": "mounds",
+      "freq": 3
+    },
+    {
+      "word": "strewn",
+      "freq": 3
+    },
+    {
+      "word": "random",
+      "freq": 3
+    },
+    {
+      "word": "fence",
+      "freq": 3
+    },
+    {
+      "word": "motion",
+      "freq": 3
+    },
+    {
+      "word": "cans",
+      "freq": 3
+    },
+    {
+      "word": "orientations",
+      "freq": 3
+    },
+    {
+      "word": "material",
+      "freq": 3
+    },
+    {
+      "word": "bigger",
+      "freq": 3
+    },
+    {
+      "word": "roughly",
+      "freq": 3
+    },
+    {
+      "word": "mainland",
+      "freq": 3
+    },
+    {
+      "word": "trapezoidal",
+      "freq": 3
+    },
+    {
+      "word": "sky",
+      "freq": 3
+    },
+    {
+      "word": "relatively",
+      "freq": 3
+    },
+    {
+      "word": "community",
+      "freq": 3
+    },
+    {
+      "word": "rifts",
+      "freq": 3
+    },
+    {
+      "word": "heart",
+      "freq": 3
+    },
+    {
+      "word": "clover-leaf",
+      "freq": 3
+    },
+    {
+      "word": "silhouette",
+      "freq": 3
+    },
+    {
+      "word": "drop",
+      "freq": 3
+    },
+    {
+      "word": "s-shaped",
+      "freq": 3
+    },
+    {
+      "word": "directional",
+      "freq": 3
+    },
+    {
+      "word": "coconut",
+      "freq": 3
+    },
+    {
+      "word": "towering",
+      "freq": 3
+    },
+    {
+      "word": "suburbs",
+      "freq": 3
+    },
+    {
+      "word": "crooked",
+      "freq": 3
+    },
+    {
+      "word": "arrow",
+      "freq": 3
+    },
+    {
+      "word": "tank-shaped",
+      "freq": 3
+    },
+    {
+      "word": "handling",
+      "freq": 3
+    },
+    {
+      "word": "knife-edge",
+      "freq": 3
+    },
+    {
+      "word": "fiords",
+      "freq": 3
+    },
+    {
+      "word": "lids",
+      "freq": 3
+    },
+    {
+      "word": "jiugong",
+      "freq": 3
+    },
+    {
+      "word": "blocked",
+      "freq": 3
+    },
+    {
+      "word": "two-fifths",
+      "freq": 3
+    },
+    {
+      "word": "less",
+      "freq": 3
+    },
+    {
+      "word": "totally",
+      "freq": 3
+    },
+    {
+      "word": "overall",
+      "freq": 3
+    },
+    {
+      "word": "erg",
+      "freq": 3
+    },
+    {
+      "word": "gym",
+      "freq": 3
+    }
+  ],
+  "spatial": [
+    {
+      "word": "next",
+      "freq": 2259
+    },
+    {
+      "word": "beside",
+      "freq": 1585
+    },
+    {
+      "word": "surrounded",
+      "freq": 1055
+    },
+    {
+      "word": "around",
+      "freq": 834
+    },
+    {
+      "word": "near",
+      "freq": 439
+    },
+    {
+      "word": "side",
+      "freq": 262
+    },
+    {
+      "word": "above",
+      "freq": 248
+    },
+    {
+      "word": "over",
+      "freq": 244
+    },
+    {
+      "word": "middle",
+      "freq": 232
+    },
+    {
+      "word": "left",
+      "freq": 102
+    },
+    {
+      "word": "right",
+      "freq": 86
+    },
+    {
+      "word": "corner",
+      "freq": 64
+    },
+    {
+      "word": "along",
+      "freq": 53
+    },
+    {
+      "word": "under",
+      "freq": 47
+    },
+    {
+      "word": "upper",
+      "freq": 39
+    },
+    {
+      "word": "lined",
+      "freq": 38
+    },
+    {
+      "word": "top",
+      "freq": 38
+    },
+    {
+      "word": "front",
+      "freq": 35
+    },
+    {
+      "word": "away",
+      "freq": 29
+    },
+    {
+      "word": "behind",
+      "freq": 26
+    },
+    {
+      "word": "lower",
+      "freq": 26
+    },
+    {
+      "word": "flanked",
+      "freq": 26
+    },
+    {
+      "word": "bottom",
+      "freq": 20
+    },
+    {
+      "word": "edge",
+      "freq": 17
+    },
+    {
+      "word": "below",
+      "freq": 15
+    },
+    {
+      "word": "adjacent",
+      "freq": 13
+    },
+    {
+      "word": "surrounding",
+      "freq": 13
+    },
+    {
+      "word": "outside",
+      "freq": 12
+    },
+    {
+      "word": "inside",
+      "freq": 11
+    },
+    {
+      "word": "vertical",
+      "freq": 11
+    },
+    {
+      "word": "center",
+      "freq": 8
+    },
+    {
+      "word": "beneath",
+      "freq": 7
+    },
+    {
+      "word": "across",
+      "freq": 6
+    },
+    {
+      "word": "far",
+      "freq": 6
+    },
+    {
+      "word": "opposite",
+      "freq": 4
+    },
+    {
+      "word": "bordered",
+      "freq": 3
+    },
+    {
+      "word": "north",
+      "freq": 3
+    },
+    {
+      "word": "close",
+      "freq": 3
+    },
+    {
+      "word": "compact",
+      "freq": 0
+    },
+    {
+      "word": "elongated",
+      "freq": 0
+    },
+    {
+      "word": "gaps",
+      "freq": 0
+    },
+    {
+      "word": "spacing",
+      "freq": 0
+    }
+  ],
+  "descriptor": [
+    {
+      "word": "different",
+      "freq": 1339
+    },
+    {
+      "word": "large",
+      "freq": 599
+    },
+    {
+      "word": "open",
+      "freq": 361
+    },
+    {
+      "word": "small",
+      "freq": 333
+    },
+    {
+      "word": "mixed",
+      "freq": 239
+    },
+    {
+      "word": "full",
+      "freq": 216
+    },
+    {
+      "word": "densely",
+      "freq": 119
+    },
+    {
+      "word": "big",
+      "freq": 108
+    },
+    {
+      "word": "tall",
+      "freq": 99
+    },
+    {
+      "word": "traffic",
+      "freq": 79
+    },
+    {
+      "word": "equipment",
+      "freq": 70
+    },
+    {
+      "word": "long",
+      "freq": 55
+    },
+    {
+      "word": "vacant",
+      "freq": 54
+    },
+    {
+      "word": "countless",
+      "freq": 48
+    },
+    {
+      "word": "partly",
+      "freq": 48
+    },
+    {
+      "word": "thin",
+      "freq": 47
+    },
+    {
+      "word": "plant",
+      "freq": 45
+    },
+    {
+      "word": "thick",
+      "freq": 33
+    },
+    {
+      "word": "narrow",
+      "freq": 31
+    },
+    {
+      "word": "fully",
+      "freq": 31
+    },
+    {
+      "word": "sandy",
+      "freq": 27
+    },
+    {
+      "word": "closely",
+      "freq": 26
+    },
+    {
+      "word": "percent",
+      "freq": 25
+    },
+    {
+      "word": "approximately",
+      "freq": 24
+    },
+    {
+      "word": "short",
+      "freq": 23
+    },
+    {
+      "word": "pointed",
+      "freq": 22
+    },
+    {
+      "word": "rocky",
+      "freq": 18
+    },
+    {
+      "word": "urban",
+      "freq": 17
+    },
+    {
+      "word": "completely",
+      "freq": 17
+    },
+    {
+      "word": "sloping",
+      "freq": 16
+    },
+    {
+      "word": "randomly",
+      "freq": 14
+    },
+    {
+      "word": "nearly",
+      "freq": 13
+    },
+    {
+      "word": "sparsely",
+      "freq": 12
+    },
+    {
+      "word": "occupied",
+      "freq": 12
+    },
+    {
+      "word": "prismatic",
+      "freq": 11
+    },
+    {
+      "word": "continuous",
+      "freq": 11
+    },
+    {
+      "word": "wide",
+      "freq": 10
+    },
+    {
+      "word": "identical",
+      "freq": 9
+    },
+    {
+      "word": "mostly",
+      "freq": 7
+    },
+    {
+      "word": "colorful",
+      "freq": 6
+    },
+    {
+      "word": "gorgeous",
+      "freq": 6
+    },
+    {
+      "word": "varied",
+      "freq": 5
+    },
+    {
+      "word": "flourish",
+      "freq": 5
+    },
+    {
+      "word": "low",
+      "freq": 5
+    },
+    {
+      "word": "similar",
+      "freq": 4
+    },
+    {
+      "word": "semi-circular",
+      "freq": 3
+    },
+    {
+      "word": "unique",
+      "freq": 3
+    },
+    {
+      "word": "abundant",
+      "freq": 0
+    },
+    {
+      "word": "barren",
+      "freq": 0
+    },
+    {
+      "word": "dominant",
+      "freq": 0
+    },
+    {
+      "word": "extensive",
+      "freq": 0
+    },
+    {
+      "word": "high",
+      "freq": 0
+    },
+    {
+      "word": "visible",
+      "freq": 0
+    },
+    {
+      "word": "visibly",
+      "freq": 0
+    }
+  ],
+  "state": [
+    {
+      "word": "bare",
+      "freq": 1057
+    },
+    {
+      "word": "parked",
+      "freq": 360
+    },
+    {
+      "word": "covered",
+      "freq": 351
+    },
+    {
+      "word": "docked",
+      "freq": 225
+    },
+    {
+      "word": "moving",
+      "freq": 118
+    },
+    {
+      "word": "lush",
+      "freq": 85
+    },
+    {
+      "word": "empty",
+      "freq": 72
+    },
+    {
+      "word": "dry",
+      "freq": 66
+    },
+    {
+      "word": "floating",
+      "freq": 64
+    },
+    {
+      "word": "crowded",
+      "freq": 26
+    },
+    {
+      "word": "undulating",
+      "freq": 16
+    },
+    {
+      "word": "clear",
+      "freq": 13
+    },
+    {
+      "word": "smoking",
+      "freq": 10
+    },
+    {
+      "word": "snowy",
+      "freq": 7
+    },
+    {
+      "word": "exposed",
+      "freq": 6
+    },
+    {
+      "word": "terraced",
+      "freq": 6
+    },
+    {
+      "word": "calm",
+      "freq": 4
+    },
+    {
+      "word": "construction",
+      "freq": 4
+    },
+    {
+      "word": "wet",
+      "freq": 3
+    },
+    {
+      "word": "painted",
+      "freq": 3
+    },
+    {
+      "word": "covering",
+      "freq": 0
+    },
+    {
+      "word": "packed",
+      "freq": 0
+    },
+    {
+      "word": "paved",
+      "freq": 0
+    },
+    {
+      "word": "vegetated",
+      "freq": 0
+    },
+    {
+      "word": "without",
+      "freq": 0
+    }
+  ],
+  "texture": [
+    {
+      "word": "neatly",
+      "freq": 809
+    },
+    {
+      "word": "dense",
+      "freq": 762
+    },
+    {
+      "word": "arranged",
+      "freq": 699
+    },
+    {
+      "word": "roundabout",
+      "freq": 464
+    },
+    {
+      "word": "sparse",
+      "freq": 453
+    },
+    {
+      "word": "rectangular",
+      "freq": 410
+    },
+    {
+      "word": "circular",
+      "freq": 339
+    },
+    {
+      "word": "lines",
+      "freq": 178
+    },
+    {
+      "word": "rows",
+      "freq": 158
+    },
+    {
+      "word": "winding",
+      "freq": 135
+    },
+    {
+      "word": "straight",
+      "freq": 99
+    },
+    {
+      "word": "parallel",
+      "freq": 94
+    },
+    {
+      "word": "circle",
+      "freq": 94
+    },
+    {
+      "word": "square",
+      "freq": 92
+    },
+    {
+      "word": "connected",
+      "freq": 83
+    },
+    {
+      "word": "evenly",
+      "freq": 65
+    },
+    {
+      "word": "cross-shaped",
+      "freq": 63
+    },
+    {
+      "word": "row",
+      "freq": 59
+    },
+    {
+      "word": "round",
+      "freq": 59
+    },
+    {
+      "word": "folded",
+      "freq": 59
+    },
+    {
+      "word": "irregular",
+      "freq": 54
+    },
+    {
+      "word": "oval",
+      "freq": 53
+    },
+    {
+      "word": "curved",
+      "freq": 47
+    },
+    {
+      "word": "scattered",
+      "freq": 43
+    },
+    {
+      "word": "wavy",
+      "freq": 41
+    },
+    {
+      "word": "line",
+      "freq": 39
+    },
+    {
+      "word": "mountainous",
+      "freq": 32
+    },
+    {
+      "word": "rough",
+      "freq": 28
+    },
+    {
+      "word": "flat",
+      "freq": 28
+    },
+    {
+      "word": "striped",
+      "freq": 26
+    },
+    {
+      "word": "strip",
+      "freq": 22
+    },
+    {
+      "word": "smooth",
+      "freq": 21
+    },
+    {
+      "word": "intersecting",
+      "freq": 17
+    },
+    {
+      "word": "fan-shaped",
+      "freq": 15
+    },
+    {
+      "word": "patch",
+      "freq": 15
+    },
+    {
+      "word": "patches",
+      "freq": 15
+    },
+    {
+      "word": "triangular",
+      "freq": 14
+    },
+    {
+      "word": "disconnected",
+      "freq": 14
+    },
+    {
+      "word": "patterned",
+      "freq": 12
+    },
+    {
+      "word": "bend",
+      "freq": 11
+    },
+    {
+      "word": "meandering",
+      "freq": 10
+    },
+    {
+      "word": "rolling",
+      "freq": 7
+    },
+    {
+      "word": "strips",
+      "freq": 6
+    },
+    {
+      "word": "circles",
+      "freq": 6
+    },
+    {
+      "word": "grid",
+      "freq": 6
+    },
+    {
+      "word": "connecting",
+      "freq": 5
+    },
+    {
+      "word": "triangle",
+      "freq": 5
+    },
+    {
+      "word": "quarter",
+      "freq": 4
+    },
+    {
+      "word": "separated",
+      "freq": 4
+    },
+    {
+      "word": "order",
+      "freq": 3
+    },
+    {
+      "word": "orderly",
+      "freq": 3
+    },
+    {
+      "word": "bent",
+      "freq": 3
+    }
+  ]
+}
